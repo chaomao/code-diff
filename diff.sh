@@ -6,3 +6,4 @@
  git log -1 --format=format:"%H" > ../version.txt
  git diff $old_version..head | mate
  popd
+ #djfksdjfskdf
